@@ -1,0 +1,3 @@
+[submodule "ivp/maps"]
+	path = ivp/maps
+	url = git@github.com:JetSeaAI/js-moos-maps.git
