@@ -21,6 +21,7 @@ bin/*
 ivp/missions/*/LOG*
 ivp/missions/*/XLOG*
 ivp/missions/*/MOOSLOG*
+ivp/missions/*/MOOSLog*
 ivp/missions/*/targ*
 ivp/missions/*/vcolors.txt
 ivp/missions/*/vloiterpos.txt
